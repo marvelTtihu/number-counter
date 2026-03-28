@@ -18,7 +18,7 @@ It's just a simple number counter, that's all.
 3. Open ``main.html`` in your web browser
 4. Click the buttons
 ---
-Or, press this link => [DEMO]
+Or, press this link => [DEMO](https://marvelttihu.github.io/number-counter/)
 
 ## Notes
 
