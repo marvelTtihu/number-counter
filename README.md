@@ -12,6 +12,14 @@ It's just a simple number counter, that's all.
 - CSS3
 - JavaScript
 
+## How to run
+1. Download or clone this repository
+2. Navigate to the ``number-counter`` folder
+3. Open ``main.html`` in your web browser
+4. Click the buttons
+---
+Or, press this link => [DEMO]
+
 ## Notes
 
 Here's to learning more about JavaScript...
