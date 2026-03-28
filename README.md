@@ -22,4 +22,4 @@ Or, press this link => [DEMO](https://marvelttihu.github.io/number-counter/)
 
 ## Notes
 
-Here's to learning more about JavaScript...
+This is intended as a learning project for Javascript basics
